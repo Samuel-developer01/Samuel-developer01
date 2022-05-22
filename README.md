@@ -5,8 +5,9 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://myaccount.google.com/profile/workspace)
 [![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/samuelleite25)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuel-developer01&show_icons=true&theme=highcontrast)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-developer01&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuel-developer01&show_icons=true&theme=highcontrast)
+
 
 <h2>Used technologies:</h2>
 
