@@ -1,4 +1,4 @@
-### Olá! Meu nome é: <h1>Samuel Leite 🖐</h1>
+### Olá! Meu nome é: <h1>Samuel Leite 👋</h1>
 
 ### Apaixonado pelo o que faço!
 
