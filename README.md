@@ -1,5 +1,7 @@
 ### Olá! Meu nome é: <h1>Samuel Leite 🖐</h1>
 
+### Apaixonado pelo o que faz!
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-leite-8789b1220/)
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Samuel-developer01)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://myaccount.google.com/profile/workspace)
