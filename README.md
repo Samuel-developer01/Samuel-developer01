@@ -6,6 +6,7 @@
 [![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/samuelleite25)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuel-developer01&show_icons=true&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
 
 <h2>Used technologies:</h2>
 
